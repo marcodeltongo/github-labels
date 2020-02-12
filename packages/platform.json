@@ -1,0 +1,11 @@
+[
+  { "name": "Chrome", "color": "#bfd4f2" },
+  { "name": "Firefox", "color": "#bfd4f2" },
+  { "name": "Safari", "color": "#bfd4f2" },
+  { "name": "Edge", "color": "#bfd4f2" },
+  { "name": "Android", "color": "#bfd4f2" },
+  { "name": "iOS", "color": "#bfd4f2" },
+  { "name": "iPadOS", "color": "#bfd4f2" },
+  { "name": "macOS", "color": "#bfd4f2" },
+  { "name": "Windows", "color": "#bfd4f2" }
+]

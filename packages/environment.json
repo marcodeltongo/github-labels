@@ -1,0 +1,5 @@
+[
+  { "name": ":construction: development", "color": "#fad8c7" },
+  { "name": ":construction_worker: staging", "color": "#fad8c7" },
+  { "name": ":rocket: production", "color": "#e3674d" }
+]

@@ -1,0 +1,5 @@
+[
+  { "name": ":grey_question: question", "color": "#cc317c" },
+  { "name": ":speech_balloon: discussion", "color": "#cc317c" },
+  { "name": ":speech_balloon: rfc", "color": "#cc317c" }
+]

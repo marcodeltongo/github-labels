@@ -1,0 +1,6 @@
+[
+  { "name": "wontfix", "color": "#d2dae1" },
+  { "name": "duplicate", "color": "#d2dae1" },
+  { "name": "invalid", "color": "#d2dae1" },
+  { "name": "on hold", "color": "#d2dae1" }
+]
