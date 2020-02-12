@@ -16,11 +16,14 @@
   "homepage": "https://github.com/marcodeltongo/github-labels",
   "repository": "github:marcodeltongo/github-labels",
   "scripts": {
-    "start": "echo \"See the README.md file for usage.\"",
+    "start": "node github-labels.js",
     "release:version": "git commit -am \":bookmark: $npm_package_version\" && git tag $npm_package_version && git push && git push --tags && npm publish --access public",
     "release:patch": "npm version patch --no-git-tag-version && npm run release:version",
     "release:minor": "npm version minor --no-git-tag-version && npm run release:version",
     "release:major": "npm version major --no-git-tag-version && npm run release:version",
     "postpublish": "npm version prepatch --preid=next --no-git-tag-version"
+  },
+  "dependencies": {
+    "git-labels": "^1.1.2"
   }
 }

@@ -1,0 +1,11 @@
+[
+  { "name": "[Browser] :squirrel: Chrome", "color": "bfd4f2" },
+  { "name": "[Browser] :squirrel: Firefox", "color": "bfd4f2" },
+  { "name": "[Browser] :squirrel: Safari", "color": "bfd4f2" },
+  { "name": "[Browser] :squirrel: Edge", "color": "bfd4f2" },
+  { "name": "[OS] :iphone: Android", "color": "bfd4f2" },
+  { "name": "[OS] :iphone: iOS", "color": "bfd4f2" },
+  { "name": "[OS] :iphone: iPadOS", "color": "bfd4f2" },
+  { "name": "[OS] :computer: macOS", "color": "bfd4f2" },
+  { "name": "[OS] :computer: Windows", "color": "bfd4f2" }
+]

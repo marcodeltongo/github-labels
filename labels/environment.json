@@ -1,0 +1,6 @@
+[
+  { "name": "On development :construction:", "color": "fad8c7" },
+  { "name": "On staging :construction_worker:", "color": "fad8c7" },
+  { "name": "On production :rocket:", "color": "e3674d" },
+  { "name": "On cloud :cloud:", "color": "e3674d" }
+]

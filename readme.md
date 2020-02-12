@@ -8,6 +8,6 @@
 
 ## Usage
 
-Prepare your GitHub API token and run:
+If you want ot customize the labels, change the JSON files in the `labels` folder and run `npm run build`.
 
-`npx git-label-cli --pattern github-labels/packages/*.json --token $YOUR_API_TOKEN --repo yourusername/yourrepo`
+Edit `github-labels.js` with your informations and run `npm start`.
