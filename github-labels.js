@@ -17,14 +17,14 @@ function readLabels(folder) {
 }
 
 ;(async function() {
-  const project = "marcodeltongo/github-labels"
+  const project = "your-username/your-repo"
   const token = process.env.GITHUB_TOKEN
 
   const folder = "./labels"
   const labels = readLabels(folder)
 
   if (existsSync("./projects.json")) {
-    const raw = readFileSync(filePath, "utf8")
+    const raw = readFileSync("./projects.json", "utf8")
     const projects = JSON.parse(raw)
 
     projects.forEach(async (project) => {
